@@ -25,11 +25,11 @@ This GitHub repository contains the code needed to fit the models, generate figu
 
 The following DOI will always resolve to the latest version:
 
-[![DOI](https://zenodo.org/badge/1303275411.svg)](https://doi.org/10.5281/zenodo.21403405)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21403405.svg)](https://doi.org/10.5281/zenodo.21403405)
 
 Other links are version-specific.
 
-#### Repository version 0.1 -- Prior to peer review
+#### Repository version 0.1.0 -- Prior to peer review
 
 This release (v0.1.0) was created before publishing preprint and before peer-review. The repository is archived here:
 
@@ -37,6 +37,8 @@ This release (v0.1.0) was created before publishing preprint and before peer-rev
 
 
 ## Data Availability
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21402472.svg)](https://doi.org/10.5281/zenodo.21402472)
 
 The data are stored in a separate Zenodo archive ([10.5281/zenodo.21402472](https://doi.org/10.5281/zenodo.21402472)). The code assumes data are stored in a parent directory up one level from the scripts (`../elk_RT_data/`).
 
