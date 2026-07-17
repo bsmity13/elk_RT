@@ -17,13 +17,15 @@ Published to bioRxiv on July XX, 2026.  https://doi.org/
 
 Submitted for review to *Ecology Letters* on July XX, 2026.
 
-## About Repository
+## Code Repository
+
+This GitHub repository contains the code needed to fit the models, generate figures, and create summary statistics described in the manuscript. The data and covariates are stored separately (see below).
 
 ### Versions 
 
 The following DOI will always resolve to the latest version:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6687904.svg)](https://doi.org/10.5281/zenodo.6687904)
+[![DOI](https://zenodo.org/badge/DOI/XX.svg)](https://doi.org/XX)
 
 Other links are version-specific.
 
@@ -31,14 +33,12 @@ Other links are version-specific.
 
 This release (v0.1) was created before publishing preprint and before peer-review. The repository is archived here:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6687905.svg)](https://doi.org/10.5281/zenodo.6687905)
+[![DOI](https://zenodo.org/badge/DOI/XX.svg)](https://doi.org/XX)
 
 
-### Overview
+## Data Availability
 
-This GitHub repository contains the code needed to fit the models, generate figures, and create summary statistics described in the manuscript. 
-
-The data are stored in the Zenodo archive that also contains a ZIP file of this repository. The code assumes data are stored in a parent directory up one level from the scripts (`../elk_RT_data/`).
+The data are stored in a Zenodo archive ([10.5281/zenodo.21402472](https://doi.org/10.5281/zenodo.21402472)). The code assumes data are stored in a parent directory up one level from the scripts (`../elk_RT_data/`).
 
 Outputs (e.g., intermediate processed data files) are also stored in the Zenodo archive, again, assumed to be located in a directory one level above (`../out/`).
 
@@ -54,7 +54,7 @@ Thus, to recreate the workflow, users should have their directory structured lik
 |-- PhyloPic/
 ```
 
-where `elk_RT/` is this GitHub repo.
+where `elk_RT/` is this GitHub repo, and the other three files come from the other Zenodo archive.
 
 ### Scripts
 
