@@ -25,15 +25,15 @@ This GitHub repository contains the code needed to fit the models, generate figu
 
 The following DOI will always resolve to the latest version:
 
-[![DOI](https://zenodo.org/badge/DOI/XX.svg)](https://doi.org/XX)
+[![DOI](https://zenodo.org/badge/1303275411.svg)](https://doi.org/10.5281/zenodo.21403405)
 
 Other links are version-specific.
 
 #### Repository version 0.1 -- Prior to peer review
 
-This release (v0.1) was created before publishing preprint and before peer-review. The repository is archived here:
+This release (v0.1.0) was created before publishing preprint and before peer-review. The repository is archived here:
 
-[![DOI](https://zenodo.org/badge/DOI/XX.svg)](https://doi.org/XX)
+[![DOI](https://zenodo.org/badge/1303275411.svg)](https://doi.org/10.5281/zenodo.21403406)
 
 
 ## Data Availability
