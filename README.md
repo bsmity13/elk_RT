@@ -38,7 +38,7 @@ This release (v0.1) was created before publishing preprint and before peer-revie
 
 ## Data Availability
 
-The data are stored in a Zenodo archive ([10.5281/zenodo.21402472](https://doi.org/10.5281/zenodo.21402472)). The code assumes data are stored in a parent directory up one level from the scripts (`../elk_RT_data/`).
+The data are stored in a separate Zenodo archive ([10.5281/zenodo.21402472](https://doi.org/10.5281/zenodo.21402472)). The code assumes data are stored in a parent directory up one level from the scripts (`../elk_RT_data/`).
 
 Outputs (e.g., intermediate processed data files) are also stored in the Zenodo archive, again, assumed to be located in a directory one level above (`../out/`).
 
