@@ -273,8 +273,8 @@ panel_E <- ggplot(df_E, aes(x = age, y = risk_taking, group = predator)) +
     size = 0.5
   ) +
   scale_x_continuous(name = "Prey Age",
-                     breaks = c(7, 12, 20),
-                     labels = c("Prime", "Senescent", "Maximum")) +
+                     breaks = c(5, 12, 20),
+                     labels = c("Prime", "Senescence", "Maximum")) +
   coord_cartesian(ylim = c(0.1, 0.9),
                   xlim = c(5, 20)) +
   scale_y_continuous(name = "Risk Taking",
